@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Passion for**: `Software Engineering`, `Programming` and some `Math`.   
-**Experienced in**: `Web Technologies`, `JavaScript`, `TypeScript`, `React`, `Node.js`, `SQL Databases`, and a bit `Next.js`. _/* but not restricted only by that */_  
-**Interests**: `Modern JavaScript`, `JavaScript APIs`, `Performance`, `Architecture`, `SSR`, a bit `C++`, `AND ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄
+**• Passion for**: `Software Engineering`, `Programming` and some `Math`.   
+**• Experienced in**: `Web Technologies`, `JavaScript`, `TypeScript`, `React`, `Node.js`, `SQL Databases`, and a bit `Next.js`. _/* but not restricted only by that */_  
+**• Interests**: `Modern JavaScript`, `JavaScript APIs`, `Performance`, `Architecture`, `SSR`, a bit `C++`, `AND ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄
 
 &nbsp;  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-of-github&count_private=true&theme=graywhite&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
