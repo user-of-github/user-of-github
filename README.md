@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **• Passion for**: `Software Engineering`, `Programming` and some `Math`.   
-**• Experienced in**: `Web Technologies`, `JavaScript`, `TypeScript`, `React`, ~ `SQL Databases`. _/* but not restricted only by that */_  
+**• Experienced in**: `Web Technologies`, `JavaScript`, `TypeScript`, `React`, ~ `Node.js`, ~ `SQL Databases`. _/* but not restricted only by that */_  
 (And of course also such cool things as `MobX`, `Vite`, `Tailwind` etc.., even `Three.js` !)   
-**• Interests**: `Modern JavaScript`, `Modern JavaScript APIs`, `Performance`, `Node.js`, `Modern CSS`, `Architecture`, `SSR`, a bit `C++`, `AND ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄
+**• Interests**: `Modern JavaScript`, `Modern JavaScript APIs`, `Performance`, `Node.js`, `Modern CSS`, `Architecture`, `SSR`, `Modern Front-End`, a bit `C++`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄
 
 &nbsp;  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-of-github&count_private=true&theme=graywhite&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
