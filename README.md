@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**• Passion for**: `Software Engineering`, `Programming` and some `Math`.   
-**• Experienced in**: `Web Technologies`, `JavaScript`, `TypeScript`, `React`, ~ `Node.js`, ~ `SQL Databases`. _/* but not restricted only by that */_  
-(And of course also such cool tools as `MobX`, `Vite`, `Tailwind` etc.., even `Three.js` !)   
+**• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`.   
+**• Experienced in**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `Tailwind`, `Vite` etc... And even `Three.js` ! _/* not restricted only by that */_  
+**• Starting to be experienced in**: `Node.js`, `REST` / ~`GraphQL`, `WebSockets`, ~ `SQL Databases`. _/* also not restricted only by that */_      
 **• Interests**: `Modern JavaScript`, `Modern JavaScript APIs`, `Performance`, `Node.js`, `Modern CSS`, `Architecture`, `Semantics`, `SSR`, `Modern Front-End`, a bit `C++`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄
 
 &nbsp;  
