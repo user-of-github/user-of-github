@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 **• Interests**: `Modern JavaScript`, `JavaScript Web APIs`, `Performance`, `Node.js`, `Architecture`, `Modern Front-End, CSS`, a bit `C++`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄
 
 &nbsp;  
+**In addition to the university:**  
+- Evolution Gaming: TypeScript Bootcamp
+- LeverX: Front-End Programming (React)
+- Rolling Scopes: RS JS/FE
+- Rolling Scopes: RS NodeJS
+
+&nbsp;  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-of-github&count_private=true&theme=graywhite&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
