@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 ___  
 &nbsp;  
 **👨🏻‍🎓💻 In addition to the university graduated from:**  
-- *[Evolution Gaming](https://www.evolution.com/)*: `TypeScript Bootcamp`
-- *[LeverX](https://leverx.com/)*: `Front-End Programming (React)`
-- *[Rolling Scopes](https://rs.school/)*: `RS JS/FE`
-- *[Rolling Scopes](https://rs.school/)*: `RS NodeJS`
+- *[Evolution Gaming](https://www.evolution.com/)*: `TypeScript Bootcamp [2021]`
+- *[LeverX](https://leverx.com/)*: `Front-End Programming (React) [2021]`
+- *[Rolling Scopes](https://rs.school/)*: `JS/FE [2023]`
+- *[Rolling Scopes](https://rs.school/)*: `NodeJS [2024]`
 ___  
 &nbsp;  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-of-github&count_private=true&theme=graywhite&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
