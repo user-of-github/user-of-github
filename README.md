@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`.   
-**• Currently working with**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `Tailwind`, `Vite`, `Node.js`, `NestJS` and even `Three.js` !.  _/* not restricted only by that */_  
+**• Currently working with**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `Tailwind`, `Vite`, `Node.js`, `NestJS`, `Three.js`.  _/* not restricted only by that */_  
 **• Have some experience with**: `NestJS`, `ORM`, `REST` / `GraphQL`, `WebSockets`, ~ `SQL Databases`_/* also not restricted only by that */_      
 **• Of course use or used**: `Linux`, `Docker`, `Git`  
 **• Interests**: `Modern JavaScript`, `JavaScript Web APIs`, `Performance`, `Node.js`, `Architecture`, `Modern Front-End, CSS`, a bit `C++`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄
