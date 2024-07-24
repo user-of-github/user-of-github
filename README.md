@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 **• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`.   
 **• Currently on my work deal with:**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `React Query (TanStack)`, `Ant Design`, `Tailwind`, `Vite`, `Node.js`, `Three.js (3D)`, `NestJS`.  _/* not restricted only by that */_  
 **• Have some experience with**: `NestJS`, `ORM`, `Prisma`, `REST` / `GraphQL`, `WebSockets`, ~ `SQL Databases`_/* also not restricted only by that */_      
-**• Of course use in commerce work**: `Docker`, `Git`, `Linux`, `Jira` 
+**• Of course use in commerce work**: `Docker`, `Git`, `Linux`, `Jira`   
 **• Interests**: `Modern JavaScript`, `JavaScript Web APIs`, `Performance`, `Node.js`, `Architecture`, `Modern Front-End, CSS`, a bit `C++`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄
 ___  
 &nbsp;  
