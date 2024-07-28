@@ -18,9 +18,22 @@ Here are some ideas to get you started:
 **• Currently on my work deal with:**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `React Query (TanStack)`, `Ant Design`, `Tailwind`, `Node.js`, `Three.js (3D)`, `NestJS`,   `Prisma`, `SQL`.  _/* not restricted only by that */_  
 **• Have some experience with**: `NestJS`, `ORM`, `Prisma`, `REST` / `GraphQL`, `WebSockets`, ~ `SQL Databases`_/* also not restricted only by that */_      
 **• Of course use in commerce work**: `Docker`, `Git`, `Linux`, `Jira`   
-**• Interests**: `Modern JavaScript`, `JavaScript Web APIs`, `Performance`, `Node.js`, `Architecture`, `Modern Front-End, CSS`, a bit `C++`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄. And also like `badminton`, `volleyball` and `table tennis`
+**• Interests**: `Modern JavaScript`, `JavaScript Web APIs`, `Performance`, `Node.js`, `Architecture`, `Modern Front-End, CSS`, a bit `C++`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄. And also like `badminton`, `volleyball` and `table tennis`  
+___   
+&nbsp;   
+**👨🏻‍🎓💻 Education:**  
+- *BSUIR* 
+  - **Faculty**: *Faculty of computer systems and networks*
+  - **Specialization**: *Informatics and Programming Technologies*
+  - **Qualification**: *System programmer engineer*
+  - *2020 - 2024*
+  - *GPA 9.28 of 10.0*
+- *BSU Lyceum* [2018 - 2020]
+  - **Profile**: *Informatics & Mathematics*
+  - *2018 - 2024*
+  - *GPA 9.6 of 10.0*
 ___  
-&nbsp;  
+&nbsp; 
 **👨🏻‍🎓💻 In addition to the university graduated from:**  
 - *[Evolution Gaming](https://www.evolution.com/)*: `TypeScript Bootcamp [2021]`
 - *[LeverX](https://leverx.com/)*: `Front-End Programming (React) [2021]`
