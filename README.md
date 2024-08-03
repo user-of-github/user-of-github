@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 **• Currently on my work deal with:**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `React Query (TanStack)`, `Ant Design`, `Tailwind`, `Node.js`, `Three.js (3D)`, `NestJS`,   `Prisma`, `SQL`.  _/* not restricted only by that */_  
 **• Have some experience with**: `NestJS`, `ORM`, `Prisma`, `REST` / `GraphQL`, `WebSockets`, ~ `SQL Databases`_/* also not restricted only by that */_      
 **• Of course use in commerce work**: `Docker`, `Git`, `Linux`, `Jira`   
-**• Interests**: `Modern JavaScript`, `JavaScript Web APIs`, `Performance`, `Node.js`, `Architecture`, `Modern Front-End, CSS`, a bit `C++`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄. And also like `badminton`, `volleyball` and `table tennis`  
+**• Interests**: `Modern JavaScript`, `JavaScript Web APIs`, `Performance`, `Node.js`, `Architecture`, `Modern Front-End, CSS`, a bit `C++`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄. And also like `badminton`, `volleyball` and `table tennis`   
+___   
+&nbsp;
+**💻 Work experience:**  
+- *[SaM Solutions](https://www.sam-solutions.com/)*
+  - *Software Engineering (JavaScript)*
+  - *2023 April - current time*
 ___   
 &nbsp;   
 **👨🏻‍🎓💻 Education:**  
