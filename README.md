@@ -28,9 +28,9 @@ ___
   - **Qualification**: *System programmer engineer*
   - *2020 - 2024*
   - *GPA 9.28 of 10.0*
-- *BSU Lyceum* [2018 - 2020]
+- *BSU Lyceum*
   - **Profile**: *Informatics & Mathematics*
-  - *2018 - 2024*
+  - *2018 - 2020*
   - *GPA 9.6 of 10.0*
 ___  
 &nbsp; 
