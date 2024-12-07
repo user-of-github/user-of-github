@@ -24,7 +24,7 @@ ___
 **💻 Work experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
   - *Software Engineering (JavaScript)*
-  - *2023 April - current time*
+  - *2023 April - 2024 September*
 ___   
 &nbsp;   
 **👨🏻‍🎓💻 Education:**  
