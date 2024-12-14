@@ -24,7 +24,10 @@ ___
 **💻 Work experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
   - *Software Engineering (JavaScript)*
-  - *2023 April - 2024 September*
+  - *2023 April - 2024 September*  
+  -&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;- 
+  - *Internship / Front-End, React*
+  - *2022 December - 2023 February*
 ___   
 &nbsp;   
 **👨🏻‍🎓💻 Education:**  
@@ -33,7 +36,7 @@ ___
   - **Specialization**: *Informatics and Programming Technologies*
   - **Qualification**: *System programmer engineer*
   - *2020 - 2024*
-  - *GPA 9.28 of 10.0*
+  - *GPA 9.28 of 10.0;  Diploma with honours*
 - *BSU Lyceum*
   - **Profile**: *Informatics & Mathematics*
   - *2018 - 2020*
@@ -41,10 +44,10 @@ ___
 ___  
 &nbsp; 
 **👨🏻‍🎓💻 In addition to the university graduated from:**  
-- *[Evolution Gaming](https://www.evolution.com/)*: `TypeScript Bootcamp [2021]`
-- *[LeverX](https://leverx.com/)*: `Front-End Programming (React) [2021]`
-- *[Rolling Scopes](https://rs.school/)*: `JS/FE [2023]`
 - *[Rolling Scopes](https://rs.school/)*: `NodeJS [2024]`
+- *[Rolling Scopes](https://rs.school/)*: `JS/FE [2023]`
+- *[LeverX](https://leverx.com/)*: `Front-End Programming (React) [2021]`
+- *[Evolution Gaming](https://www.evolution.com/)*: `TypeScript Bootcamp [2021]`
 ___  
 &nbsp;  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-of-github&count_private=true&theme=graywhite&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
