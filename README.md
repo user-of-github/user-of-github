@@ -23,11 +23,9 @@ ___
 &nbsp;
 **💻 Work experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
-  - *Software Engineering (JavaScript)*
-  - *2023 April - 2024 September*  
+  - *Software Engineering (JavaScript)*  
   -&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;- 
   - *Internship / Front-End, React*
-  - *2022 December - 2023 February*
 ___   
 &nbsp;   
 **👨🏻‍🎓💻 Education:**  
