@@ -5,14 +5,12 @@ Would like to try `React Native`, `PWAs`, `IoT`, `Robotics`, `AI`, `Web Assembly
 **• Also have non-commercial experience with**: `Express`,  `WebSockets`, `RTK Query`, `GraphQL`, `React Native`, ~ `Oracle PL/pgSQL`, creating Figma plugins via `Figma Plugin API`     
 **• Of course used in commerce work**: `Docker`, `Git`, `Linux`, `Jira`     
 ___   
-&nbsp;
 ### **💻 Work experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
   - *Software Engineering (JavaScript)*  
   -&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;- 
   - *Internship / Front-End, React*
-___   
-&nbsp;   
+___     
 ### **👨🏻‍🎓💻 Education:**  
 - *BSUIR* 
   - **Faculty**: *Faculty of computer systems and networks*
@@ -25,7 +23,6 @@ ___
   - *2018 - 2020*
   - *GPA 9.6 of 10.0*
 ___  
-&nbsp; 
 ### **👨🏻‍🎓💻 In addition to the university graduated from:**  
 - *[Rolling Scopes](https://rs.school/)*: `NodeJS [2024]`
 - *[Rolling Scopes](https://rs.school/)*: `JS/FE [2023]`
