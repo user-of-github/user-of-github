@@ -33,7 +33,7 @@ ___
 1. [Fullstack delivery app built with React Native and NestJS](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)
 2. [Home Library REST API service built with full set of backend technologies (Nest)](https://github.com/user-of-github/nodejs2024Q1-service)
 3. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)
-4. [Products RESTful service (Pyhton, Django Rest, Docker, Linux) | completed Test task to Yandex Back-End School](https://github.com/user-of-github/rest-api-test-task)
+4. [Products RESTful service | Completed Test task to Yandex Back-End School 2022](https://github.com/user-of-github/rest-api-test-task)
 
 
 
