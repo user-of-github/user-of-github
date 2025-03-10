@@ -6,14 +6,14 @@ Would like to try `React Native`, `PWAs`, `IoT`, `Robotics`, `AI`, `Web Assembly
 **• Of course used in commerce work**: `Docker`, `Git`, `Linux`, `Jira`     
 ___   
 &nbsp;
-**💻 Work experience:**  
+### **💻 Work experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
   - *Software Engineering (JavaScript)*  
   -&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;- 
   - *Internship / Front-End, React*
 ___   
 &nbsp;   
-**👨🏻‍🎓💻 Education:**  
+### **👨🏻‍🎓💻 Education:**  
 - *BSUIR* 
   - **Faculty**: *Faculty of computer systems and networks*
   - **Specialization**: *Informatics and Programming Technologies*
@@ -26,13 +26,13 @@ ___
   - *GPA 9.6 of 10.0*
 ___  
 &nbsp; 
-**👨🏻‍🎓💻 In addition to the university graduated from:**  
+### **👨🏻‍🎓💻 In addition to the university graduated from:**  
 - *[Rolling Scopes](https://rs.school/)*: `NodeJS [2024]`
 - *[Rolling Scopes](https://rs.school/)*: `JS/FE [2023]`
 - *[LeverX](https://leverx.com/)*: `Front-End Programming (React) [2021]`
 - *[Evolution Gaming](https://www.evolution.com/)*: `TypeScript Bootcamp [2021]`
 ___    
-**Interesting pet projects to demonstrate**  
+### **Interesting pet projects for demo**  
 1. [Fullstack delivery app built with React Native and NestJS](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)
 2. [Home Library REST API service built with full set of backend technologies (Nest)](https://github.com/user-of-github/nodejs2024Q1-service)
 &nbsp; 
