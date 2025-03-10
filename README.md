@@ -31,7 +31,10 @@ ___
 - *[Rolling Scopes](https://rs.school/)*: `JS/FE [2023]`
 - *[LeverX](https://leverx.com/)*: `Front-End Programming (React) [2021]`
 - *[Evolution Gaming](https://www.evolution.com/)*: `TypeScript Bootcamp [2021]`
-___  
+___    
+**Interesting pet projects to demonstrate**  
+1. [Fullstack delivery app built with React Native and NestJS](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)
+2. [Home Library REST API service built with full set of backend technologies (Nest)](https://github.com/user-of-github/nodejs2024Q1-service)
 &nbsp; 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-of-github&count_private=true&theme=graywhite&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
