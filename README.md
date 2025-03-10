@@ -32,28 +32,17 @@ ___
 ### **Interesting pet projects for demo**  
 1. [Fullstack delivery app built with React Native and NestJS](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)
 2. [Home Library REST API service built with full set of backend technologies (Nest)](https://github.com/user-of-github/nodejs2024Q1-service)
+3. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)
+
+
+
 &nbsp; 
+
+
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user-of-github&count_private=true&theme=graywhite&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-of-github&layout=compact&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) 
--->
-
-
-<!-- ### Hi there 👋 -->
-
-<!--
-**user-of-github/user-of-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
