@@ -29,7 +29,7 @@ ___
 - *[LeverX](https://leverx.com/)*: `Front-End Programming (React) [2021]`
 - *[Evolution Gaming](https://www.evolution.com/)*: `TypeScript Bootcamp [2021]`
 ___    
-### **Interesting pet projects for demo**  
+### **Some interesting projects for public demo**  
 1. [3D visual arrangement of items in room](https://github.com/user-of-github/JS/tree/main/visual-arrangement-of-tools-in-room)  
 _Visual application with 3D graphics to arrange different objects in a drawn on a 2D canvas room. Built with modern Techs (React, Canvas API, Three.js, Tailwind, MobX, Localization, auto-deploy via CI etc.). Check out Readme inside project for exact details_
 2. [Mobile delivery app](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)  
