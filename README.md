@@ -34,10 +34,11 @@ ___
 _Visual application with 3D graphics to arrange different objects in a drawn on a 2D canvas room. Built with modern Techs (React, Canvas API, Three.js, Tailwind, MobX, Localization, auto-deploy via CI etc.). Check out Readme inside project for exact details_
 2. [Mobile delivery app](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)  
 _Fullstack mobile application for some small cafes or delivery services. Modern back-end techs (Nest, Prisma, Postgres etc.), as well as good set of Front-End techs (React Native, Expo, Forms, Authorization, CI, Storages, Redux etc.). Visit Readme to see more about technologies and features_ 
-3. [Home Library REST API service built with full set of backend technologies (Nest)](https://github.com/user-of-github/nodejs2024Q1-service)
-4. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)  
+3. [Home Library REST API service](https://github.com/user-of-github/nodejs2024Q1-service)  
+_Graduate prpject from RS School NodeJs [2024Q1]. Large app built with full set of modern Techs and principles (Nest, Prisma, Docker, Linux, Authorization)_       
+5. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)  
 _3D Casino roulette game built with React and Babylon.js (WebGL). Even models drawn by myself 3Ds Max. Graduate project from [Evolution Gaming TypeScript Bootcamp 2021](https://typescript-bootcamp.evolution.com/by)_
-5. [Products RESTful service | Completed Test task to Yandex Back-End School 2022](https://github.com/user-of-github/rest-api-test-task)
+6. [Products RESTful service | Completed Test task to Yandex Back-End School 2022](https://github.com/user-of-github/rest-api-test-task)
 
 
 
