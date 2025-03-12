@@ -36,6 +36,7 @@ _Visual application with 3D graphics to arrange different objects in a drawn on 
 _Fullstack mobile application for some small cafes or delivery services. Modern back-end techs (Nest, Prisma, Postgres etc.), as well as good set of Front-End techs (React Native, Expo, Forms, Authorization, CI, Storages, Redux etc.). Visit Readme to see more about technologies and features_ 
 3. [Home Library REST API service built with full set of backend technologies (Nest)](https://github.com/user-of-github/nodejs2024Q1-service)
 4. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)
+_3D Casino roulette game with self-drawn models (3D Max) built with React and Babylon.js (WebGL)_
 5. [Products RESTful service | Completed Test task to Yandex Back-End School 2022](https://github.com/user-of-github/rest-api-test-task)
 
 
