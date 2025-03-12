@@ -32,7 +32,7 @@ ___
 ### **Some interesting projects for public demo**  
 1. [3D visual arrangement of items in room](https://github.com/user-of-github/JS/tree/main/visual-arrangement-of-tools-in-room)  
 _Visual application with 3D graphics to arrange different objects in a drawn on a 2D canvas room. Built with modern Techs (React, Canvas API, Three.js, Tailwind, MobX, Localization, auto-deploy via CI etc.). Check out Readme inside project for exact details_
-2. [Mobile delivery app](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)  
+2. [Food delivery mobile app](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)  
 _Fullstack mobile application for some small cafes or delivery services. Modern back-end techs (Nest, Prisma, Postgres etc.), as well as good set of Front-End techs (React Native, Expo, Forms, Authorization, CI, Storages, Redux etc.). Visit Readme to see more about technologies and features_ 
 3. [Home Library REST API service](https://github.com/user-of-github/nodejs2024Q1-service)  
 _Graduate project from [RS School NodeJs [2024Q1]](https://rs.school/courses/nodejs). Large app built with full set of modern Techs and principles (Nest, Prisma, Docker, Linux, Authorization)_       
