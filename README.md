@@ -1,4 +1,6 @@
-## Mikita @user-of-github
+## Mikita  
+#### _Also known as [@user-of-github](https://github.com/user-of-github)_  
+___  
 **• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`. Dream to develop complex, sophisticated and modern tools, services, but not just primitive standard applications :)   
 **• Interests**: `Modern JavaScript`, `Node.js`, `JavaScript Web APIs`, `Performance`,  `Architecture`, `Modern Front-End, CSS`, a bit `C++`.   
 Would like to try `React Native`, `PWAs`, `IoT`, `Robotics`, `AI`, `Web Assembly`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄. Would be glad to participate in developing something referred to these areas, some interesting startup, etc.  P.s. And also like `badminton`, `volleyball` and `table tennis`   
