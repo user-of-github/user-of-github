@@ -1,8 +1,8 @@
 **• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`. Dream to develop complex, sophisticated and modern tools, services, but not just primitive standard applications :)   
 **• Interests**: `Modern JavaScript`, `Node.js`, `JavaScript Web APIs`, `Performance`,  `Architecture`, `Modern Front-End, CSS`, a bit `C++`.   
 Would like to try `React Native`, `PWAs`, `IoT`, `Robotics`, `AI`, `Web Assembly`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄. Would be glad to participate in developing something referred to these areas, some interesting startup, etc.  P.s. And also like `badminton`, `volleyball` and `table tennis`   
-**• Commercial experience**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `React Query (TanStack)`, `Ant Design`, `Tailwind`, `Node.js`, `Three.js (3D)`, `NestJS`,   `Prisma`, `SQL`.  
-**• Also have non-commercial experience with**: `Express`,  `WebSockets`, `RTK Query`, `GraphQL`, `React Native`, ~ `Oracle PL/pgSQL`, creating Figma plugins via `Figma Plugin API`     
+**• Commercial experience**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `React Query (TanStack)`, `Ant Design`, `Tailwind`, `Node.js`, `Three.js (3D)`, `NestJS`,   `Prisma`, `SQL`, `CI`.  
+**• Also have non-commercial experience with**: `React Native`, `Express`, `WebSockets`, `RTK Query`, `GraphQL`,  ~ `Oracle PL/pgSQL`, creating Figma plugins via `Figma Plugin API`, `GitHub Actions`, `Deployments`     
 **• Of course used in commerce work**: `Docker`, `Git`, `Linux`, `Jira`     
 ___   
 ### **💻 Work experience:**  
@@ -33,7 +33,7 @@ ___
 1. [3D visual arrangement of items in room](https://github.com/user-of-github/JS/tree/main/visual-arrangement-of-tools-in-room)  
 _Visual application with 3D graphics to arrange different objects in a drawn on a 2D canvas room. Built with modern Techs (React, Canvas API, Three.js, Tailwind, MobX, Localization, auto-deploy via CI etc.). Check out Readme inside project for exact details_
 2. [Food delivery mobile app](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)  
-_Fullstack mobile application for some small cafes or delivery services. Modern back-end techs (Nest, Prisma, Postgres etc.), as well as good set of Front-End techs (React Native, Expo, Forms, Authorization, CI, Storages, Redux etc.). Visit Readme to see more about technologies and features_ 
+_Fullstack mobile application for some small cafes or delivery services. Modern back-end techs (Nest, Prisma, Postgres etc.), as well as good set of Front-End techs (React Native, Expo, Forms, Storages, Redux etc.). Database, Authorization, Autodeployments on CI. Visit Readme to see more about technologies and features_ 
 3. [Home Library REST API service](https://github.com/user-of-github/nodejs2024Q1-service)  
 _Graduate project from [RS School NodeJs [2024Q1]](https://rs.school/courses/nodejs). Large app built with full set of modern Techs and principles (Nest, Prisma, Docker, Linux, Authorization)_       
 5. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)  
