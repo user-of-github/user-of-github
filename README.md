@@ -37,7 +37,7 @@ _Fullstack mobile application for some small cafes or delivery services. Modern 
 3. [Home Library REST API service](https://github.com/user-of-github/nodejs2024Q1-service)  
 _Graduate project from [RS School NodeJs [2024Q1]](https://rs.school/courses/nodejs). Large app built with full set of modern Techs and principles (Nest, Prisma, Docker, Linux, Authorization)_       
 5. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)  
-_3D Casino roulette game built with React and Babylon.js (WebGL). Even models drawn by myself 3Ds Max. Graduate project from [Evolution Gaming TypeScript Bootcamp 2021](https://typescript-bootcamp.evolution.com/by)_
+_3D Casino roulette game built with React and Babylon.js (WebGL). Even models drawn by myself 3Ds Max. Graduate project from [Evolution Gaming TypeScript Bootcamp](https://typescript-bootcamp.evolution.com/by)_
 6. [Products RESTful service | Completed Test task to Yandex Back-End School 2022](https://github.com/user-of-github/rest-api-test-task)
 
 
