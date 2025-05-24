@@ -46,7 +46,10 @@ _3D Casino roulette game built with React and Babylon.js (WebGL). Even models dr
 
 
 &nbsp; 
-
+___  
+### Most recent read books
+- WebAssembly: The Definitive Guide
+- C++ 17. Standard template library
 
 
 <!--
