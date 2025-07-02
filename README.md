@@ -10,9 +10,9 @@ Would like to try `Web Assembly`, `React Native`, `PWAs`, `IoT`, `Robotics`, `AI
 ___   
 ### **💻 Work experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
-  - *Software Engineering (JavaScript)*  
+  - *Software Engineering (JavaScript) - 1.5 years*  
   -&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;-&nbsp;- 
-  - *Internship / Front-End, React*
+  - *Internship / Front-End, React - 3 months*
 ___     
 ### **👨🏻‍🎓💻 Education:**  
 - *BSUIR* 
