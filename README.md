@@ -10,9 +10,11 @@ Would like to try `Web Assembly`, `React Native`, `PWAs`, `IoT`, `Robotics`, `AI
 ___   
 ### **💻 Work experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
-  - *Software Engineering (JavaScript) - 2 years*
+  - *Software Engineering JavaScript (Nov 2022 - Sep 2024)*
 - *[Evolution Gaming](https://www.evolution.com/)*
-  - *TypeScript Engineer Intern - 6 months*  
+  - *TypeScript Engineer Intern (Mar 2021 - Aug 2021)*
+- *[LeverX Group](https://leverx.com/)*
+  - *Front-End Developer Intern (Sep 2021 - Dec 2021)* 
 ___     
 ### **👨🏻‍🎓💻 Education:**  
 - *BSUIR* 
