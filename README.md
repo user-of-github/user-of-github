@@ -2,7 +2,7 @@
 #### _Also known as [@user-of-github](https://github.com/user-of-github)_  
 ___  
 **• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`. Dream to develop complex, sophisticated and modern tools, services, but not just primitive standard applications :)   
-**• Interests**: `Modern JavaScript`, `Web Assembly`, `Node.js`, `JavaScript Web APIs`, `Performance`,  `Architecture`, `Modern Front-End, CSS`, a bit `C++`.   
+**• Interests**: `Modern JavaScript`, `Web Platform`, `Web Assembly`, `Node.js`, `JavaScript Web APIs`, `Performance`,  `Architecture`, `Modern Front-End, CSS`, a bit `C++`.   
 Would like to try `Web Assembly`, `React Native`, `PWAs`, `IoT`, `Robotics`, `AI`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄. Would be glad to participate in developing something referred to these areas, some interesting startup, etc.  P.s. And also like `badminton`, `volleyball` and `table tennis`   
 **• Commercial experience**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `React Query (TanStack)`, `Ant Design`, `Tailwind`, `Node.js`, `Three.js (3D)`, `NestJS`,   `Prisma`, `SQL`, `CI`.  
 **• Also have non-commercial experience with**: `React Native`, `Express`, `WebSockets`, `Redux Toolkit`, `GraphQL`,  ~ `Oracle PL/pgSQL`, creating Figma plugins via `Figma Plugin API`, `GitHub Actions`, `Deployments`     
@@ -31,8 +31,6 @@ ___
 ### **👨🏻‍🎓💻 In addition to the university graduated from:**  
 - *[Rolling Scopes](https://rs.school/)*: `NodeJS [2024]`
 - *[Rolling Scopes](https://rs.school/)*: `JS/FE [2023]`
-- *[LeverX](https://leverx.com/)*: `Front-End Programming (React) [2021]`
-- *[Evolution Gaming](https://www.evolution.com/)*: `TypeScript Bootcamp [2021]`
 ___    
 ### **🖥 Some interesting projects for public demo**  
 1. [3D visual arrangement of items in room](https://github.com/user-of-github/JS/tree/main/visual-arrangement-of-tools-in-room)  
