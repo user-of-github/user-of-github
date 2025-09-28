@@ -6,7 +6,8 @@ ___
 Would like to try `Web Assembly`, `React Native`, `PWAs`, `IoT`, `Robotics`, `AI`, **AND** `ANY INTERESTING AND PERSPECTIVE AREA OR TECHNOLOGY` 😄. Would be glad to participate in developing something referred to these areas, some interesting startup, etc.  P.s. And also like `badminton`, `volleyball` and `table tennis`   
 **• Commercial experience**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `React Query (TanStack)`, `Ant Design`, `Tailwind`, `Node.js`, `Three.js (3D)`, `NestJS`,   `Prisma`, `SQL`, `CI`.  
 **• Also have non-commercial experience with**: `React Native`, `Express`, `TypeORM`, `WebSockets`, `Redux Toolkit`, `GraphQL`,  ~ `Oracle PL/pgSQL`, creating Figma plugins via `Figma Plugin API`, `GitHub Actions`, `Deployments`     
-**• Of course used in commerce work**: `Docker`, `Git`, `Linux`, `Jira` , `Microsoft Copilot`    
+**• Of course used in commerce work**: `Docker`, `Git`, `Linux`, `Jira`  
+**• AI help tools**: `Copilot`, `LM Arena AI`, `Ollama`, `Commet`, `Perplexity`
 ___   
 ### **💻 Work experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
