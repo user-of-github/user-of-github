@@ -12,6 +12,7 @@ ___
 ### **💻 Work experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
   - *Software Engineering JavaScript (Nov 2022 - Sep 2024)*
+  - *Software Engineering JavaScript (Sep 2025 — present)  
 - *[Evolution Gaming](https://www.evolution.com/)*
   - *TypeScript Engineer Intern (Mar 2021 - Aug 2021)*
 - *[LeverX Group](https://leverx.com/)*
