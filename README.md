@@ -11,8 +11,7 @@ Would like to try `Web Assembly`, `React Native`, `PWAs`, `IoT`, `Robotics`, `AI
 ___   
 ### **💻 Work experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
-  - *Software Engineering JavaScript (Nov 2022 - Sep 2024)*
-  - *Software Engineering JavaScript (Sep 2025 — present)*  
+  - *Software Engineering JavaScript (Nov 2022 - Sep 2024, Sep 2025 — present)*  
 - *[Evolution Gaming](https://www.evolution.com/)*
   - *TypeScript Engineer Intern (Mar 2021 - Aug 2021)*
 - *[LeverX Group](https://leverx.com/)*
@@ -50,6 +49,7 @@ _3D Casino roulette game built with React and Babylon.js (WebGL). Even models dr
 &nbsp; 
 ___  
 ### Most recent read books
+- Grokking Algorithms  
 - WebAssembly in Action: With Examples Using C++ and Emscripten
 - WebAssembly: The Definitive Guide
 - C++17 STL Cookbook
