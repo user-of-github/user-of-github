@@ -43,6 +43,8 @@ _Graduate project from [RS School NodeJs [2024Q1]](https://rs.school/courses/nod
 5. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)  
 _3D Casino roulette game built with React and Babylon.js (WebGL). Even models drawn by myself 3Ds Max. Graduate project from [Evolution Gaming TypeScript Bootcamp](https://typescript-bootcamp.evolution.com/by)_
 6. [Products RESTful service | Completed Test task to Yandex Back-End School 2022](https://github.com/user-of-github/rest-api-test-task)
+7. [C++ 17 Linear Algebra Library](https://github.com/user-of-github/CPP/tree/master/LinearAlgebra)  
+_Linear Algebra lib to work with numeric vectors, matrices, systems of equations and so on. Written on C++ (17)_
 
 
 
