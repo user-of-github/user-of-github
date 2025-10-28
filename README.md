@@ -37,16 +37,16 @@ ___
 1. [3D visual arrangement of items in room](https://github.com/user-of-github/JS/tree/main/visual-arrangement-of-tools-in-room)  
 _Visual application with 3D graphics to arrange different objects in a drawn on a 2D canvas room. Built with modern Techs (React, Canvas API, Three.js, Tailwind, MobX, Localization, auto-deploy via CI etc.). Check out Readme inside project for exact details_
 2. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)  
-_3D Casino roulette game built with React, Babylon.js (WebGL), MobX, TypeScript, animations. Even models drawn by myself 3Ds Max._  
-3. [Food delivery full-stack mobile app](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)  
+_3D Casino roulette game built with React, Babylon.js (WebGL), MobX, TypeScript, animations. Even models drawn by myself 3Ds Max._
+_Graduate project from [Evolution Gaming TypeScript Bootcamp](https://typescript-bootcamp.evolution.com/by)_  
+4. [Food delivery full-stack mobile app](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)  
 _Fullstack mobile application for some small cafes or delivery services. Modern back-end techs (Nest, Prisma, Postgres etc.), as well as good set of Front-End techs (React Native, Expo, Forms, Storages, Redux etc.). Database, Authorization, Autodeployments on CI. Visit Readme to see more about technologies and features_ 
-4. [Home Library REST API service](https://github.com/user-of-github/nodejs2024Q1-service)  
+5. [Home Library REST API service](https://github.com/user-of-github/nodejs2024Q1-service)  
 _Graduate project from [RS School NodeJs [2024Q1]](https://rs.school/courses/nodejs). Large app built with full set of modern Techs and principles (Nest, Prisma, Docker, Linux, Authorization)_       
-_Graduate project from [Evolution Gaming TypeScript Bootcamp](https://typescript-bootcamp.evolution.com/by)_
-5. [Products RESTful service | Completed Test task to Yandex Back-End School 2022](https://github.com/user-of-github/rest-api-test-task)
-6. [C++ 17 Linear Algebra Library](https://github.com/user-of-github/CPP/tree/master/LinearAlgebra)  
+6. [Products RESTful service | Completed Test task to Yandex Back-End School 2022](https://github.com/user-of-github/rest-api-test-task)
+7. [C++ 17 Linear Algebra Library](https://github.com/user-of-github/CPP/tree/master/LinearAlgebra)  
 _Linear Algebra lib to work with numeric vectors, matrices, systems of equations and so on. Written on C++ (17)_
-7. [3D Running Ball 3D game](https://github.com/user-of-github/JS/tree/main/games/running-ball-babylonjs)  
+8. [3D Running Ball 3D game](https://github.com/user-of-github/JS/tree/main/games/running-ball-babylonjs)  
 _Simple 3D Game to practice TypeScript, Babylon.js, working with physics, textures_  
 
 
