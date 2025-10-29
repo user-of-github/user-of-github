@@ -30,8 +30,8 @@ ___
   - *GPA 9.6 of 10.0*
 ___  
 ### **👨🏻‍🎓💻 In addition to the university graduated from:**  
-- *[Rolling Scopes](https://rs.school/)*: `NodeJS [2024]`
-- *[Rolling Scopes](https://rs.school/)*: `JS/FE [2023]`
+- *[Rolling Scopes](https://rs.school/)*: `Node.js [2024Q1]`
+- *[Rolling Scopes](https://rs.school/)*: `JS / Front-end [2022Q3]`
 ___    
 ### **🖥 Some interesting projects for public demo**  
 1. [3D visual arrangement of items in room](https://github.com/user-of-github/JS/tree/main/visual-arrangement-of-tools-in-room)  
