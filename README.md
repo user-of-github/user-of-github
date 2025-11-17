@@ -13,9 +13,9 @@ ___
 - *[SaM Solutions](https://www.sam-solutions.com/)*
   - *Software Engineering JavaScript (Nov 2022 - Sep 2024, Sep 2025 — present)*
 - *[LeverX Group](https://leverx.com/)*
-  - *Front-End Developer Intern (Sep 2021 - Dec 2021)* 
+  - *Front-End Developer Trainee (Sep 2021 - Dec 2021)* 
 - *[Evolution Gaming](https://www.evolution.com/)*
-  - *TypeScript Developer Intern (Mar 2021 - Aug 2021)*
+  - *TypeScript Developer Trainee (Mar 2021 - Aug 2021)*
 ___     
 ### **👨🏻‍🎓💻 Education:**  
 - *BSUIR* 
