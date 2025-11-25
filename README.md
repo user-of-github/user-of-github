@@ -9,7 +9,7 @@ Would like to try `Web Assembly`, `React Native`, `PWAs`, `IoT`, `Robotics`, `AI
 **• Of course used in commerce work**: `Docker`, `Git`, `Linux`, `Jira`  
 **• AI tools**: `Perplexity`, `Copilot`, `LM Studio`, `Ollama`, `LM Arena`, `Commet`
 ___   
-### **💻 Work experience:**  
+### **💻 Experience:**  
 - *[SaM Solutions](https://www.sam-solutions.com/)*
   - *Software Engineering JavaScript (Nov 2022 - Sep 2024, Sep 2025 — present)*
 - *[LeverX Group](https://leverx.com/)*
