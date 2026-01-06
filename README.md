@@ -4,18 +4,10 @@ ___
 **• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`. Dream to develop complex, sophisticated and modern tools, services, but not just primitive standard applications :)   
 **• Interests**: `Web Platform`, `Web Assembly`, `React Native`, `Node.js`, `Performance`,  `Architecture`.   
 Would like to try `Web Assembly`, `React Native`, `PWAs`, `IoT`, `Robotics`, `AI`, `WebGL`, **AND** `Any interesting and perspective area or technology` 😄. Would be glad to participate in developing something referred to these areas, some interesting startup, etc.  P.s. And also like `badminton`, `volleyball` and `table tennis`   
-**• Commercial experience**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `React Query (TanStack)`, `Ant Design`, `Tailwind`, `Node.js`, `Three.js (3D)`, `NestJS`,   `Prisma`, `SQL`, `CI`.  
+**• Experience**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `React Query (TanStack)`, `Ant Design`, `Tailwind`, `Node.js`, `Three.js (3D)`, `NestJS`,   `Prisma`, `SQL`, `CI`.  
 **• Also have non-commercial experience with**: `Python`, `Oracle PL/SQL`, `React Native`, `Express`, `TypeORM`, `WebSockets`, `Redux Toolkit`, `GraphQL`, creating Figma plugins via `Figma Plugin API`, `GitHub Actions`, `Deployments`     
 **• Of course used in commerce work**: `Docker`, `Git`, `Linux`, `Jira`  
 **• AI tools**: `Perplexity`, `Copilot`, `LM Studio`, `Ollama`, `LM Arena`, `Commet`
-___   
-### **💻 Experience:**  
-- *[SaM Solutions](https://www.sam-solutions.com/)*
-  - *Software Engineering JavaScript (Nov 2022 - Sep 2024, Sep 2025 — present)*
-- *[LeverX Group](https://leverx.com/)*
-  - *Front-End Developer Trainee (Sep 2021 - Dec 2021)* 
-- *[Evolution Gaming](https://www.evolution.com/)*
-  - *TypeScript Developer Trainee (Mar 2021 - Aug 2021)*
 ___     
 ### **👨🏻‍🎓💻 Education:**  
 - *BSUIR* 
