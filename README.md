@@ -4,10 +4,9 @@ ___
 **• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`. Dream to develop complex, sophisticated and modern tools, services, but not just primitive standard applications :)   
 **• Interests**: `Web Platform`, `Web Assembly`, `React Native`, `Node.js`, `Performance`,  `Architecture`.   
 Would like to try `Web Assembly`, `React Native`, `PWAs`, `IoT`, `Robotics`, `AI`, `WebGL`, **AND** `Any interesting and perspective area or technology` 😄. Would be glad to participate in developing something referred to these areas, some interesting startup, etc.  P.s. And also like `badminton`, `volleyball` and `table tennis`   
-**• Experience**:  `JavaScript`, `TypeScript`, `React`, `MobX`, `React Query (TanStack)`, `Ant Design`, `Tailwind`, `Node.js`, `Three.js (3D)`, `NestJS`,   `Prisma`, `SQL`, `CI`.  
-**• Also have non-commercial experience with**: `Python`, `Oracle PL/SQL`, `React Native`, `Express`, `TypeORM`, `WebSockets`, `Redux Toolkit`, `GraphQL`, creating Figma plugins via `Figma Plugin API`, `GitHub Actions`, `Deployments`     
-**• Of course used in commerce work**: `Docker`, `Git`, `Linux`, `Jira`  
-**• AI tools**: `Perplexity`, `Copilot`, `LM Studio`, `Ollama`, `LM Arena`, `Commet`
+**• Currently back-end developer**:  `JavaScript`, `TypeScript`, `Oracle PL/SQL`, `SQL`, `Node.js`, `Express`, `Microservices`, `Docker`, `TypeORM`, `Docker`,   `Prisma`, `SQL`, `CI`.  
+**• Before used to work 2 years as front-end developer**: `React`, `MobX`, `Three.js (3D)`, `TanStack React Query`, `Tailwind CSS`, `Ant Design`, creating Figma plugins via `Figma Plugin API` 
+**• AI tools**: `Perplexity Pro`, `Gemini 3.1`, `GPT 5.4`, `LM Studio`, `Ollama`, `Arena.AI`, `Commet`
 ___     
 ### **👨🏻‍🎓💻 Education:**  
 - *BSUIR* 
