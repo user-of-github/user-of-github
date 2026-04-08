@@ -2,8 +2,7 @@
 #### _Also known as [@user-of-github](https://github.com/user-of-github)_  
 ___  
 **• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`. Dream to develop complex, sophisticated and modern tools, services, but not just primitive standard applications :)   
-**• Interests**: `Web Platform`, `Web Assembly`, `React Native`, `Node.js`, `Performance`,  `Architecture`.   
-Would like to try `Web Assembly`, `React Native`, `PWAs`, `IoT`, `Robotics`, `AI`, `WebGL`, **AND** `Any interesting and perspective area or technology` 😄. Would be glad to participate in developing something referred to these areas, some interesting startup, etc.  P.s. And also like `badminton`, `volleyball` and `table tennis`   
+**• Interests**: `Services`, `AI agents`, `SQL`, `Node.js`, `Performance`,  `Architecture`.    P.s. And also like `badminton`, `squash`, `volleyball` and `table tennis`   
 **• Currently back-end developer**:  `JavaScript`, `TypeScript`, `Oracle PL/SQL`, `SQL`, `Node.js`, `Express`, `Microservices`, `Docker`, `TypeORM`, `Docker`,   `Prisma`, `SQL`, `CI`.  
 **• Before used to work 2 years as front-end developer**: `React`, `MobX`, `Three.js (3D)`, `TanStack React Query`, `Tailwind CSS`, `Ant Design`, creating Figma plugins via `Figma Plugin API`   
 **• AI tools**: `Perplexity Pro`, `Gemini 3.1`, `GPT 5.4`, `LM Studio`, `Ollama`, `Arena.AI`, `Commet`
