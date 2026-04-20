@@ -3,9 +3,9 @@
 ___    
 **• Currently back-end developer**:  `JavaScript`/`TypeScript`, `Oracle PL/SQL`, `SQL`, `Node.js`, `NestJS`, `Express`, `Microservices`, `Docker`, `TypeORM`.  
 **• Before used to work 2 years as front-end developer**: `React`, `MobX`, `Three.js (3D)`, `TanStack React Query`, `Tailwind CSS`, `Ant Design`, creating Figma plugins via `Figma Plugin API`   
-**• AI tools**: `Perplexity Pro`, `Qwen Code`, `Ollama`, `LM Studio`, `Gemini 3.1 Pro` & `Claude 4.6 Sonnet` enjoyer
-**• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`. Dream to develop complex, sophisticated and modern tools, services, but not just primitive standard applications :)   
-**• Interests**: `Services`, `AI agents`, `SQL`, `Node.js`, `Performance`,  `Architecture`.    P.s. And also like `badminton`, `squash`, `volleyball` and `table tennis` 
+**• AI tools**: `Perplexity Pro`, `Qwen Code`, `Ollama`, `LM Studio`, `Gemini 3.1 Pro` & `Claude 4.6 Sonnet` enjoyer  
+**• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`. Dream to develop complex, sophisticated and modern tools, services, but not just primitive standard applications :)    
+**• Interests**: `Services`, `AI agents`, `SQL`, `Node.js`, `Performance`,  `Architecture`.    P.s. And also like `badminton`, `squash`, `volleyball` and `table tennis`   
 ___     
 ### **👨🏻‍🎓💻 Education:**  
 - *BSUIR* 
