@@ -1,7 +1,7 @@
 ## Mikita  
 #### _Also known as [@user-of-github](https://github.com/user-of-github)_  
 ___    
-**• Currently back-end developer**:  `JavaScript`/`TypeScript`, `Oracle PL/SQL`, `SQL`, `Node.js`, `NestJS`, `Express`, `Microservices`, `Docker`, `TypeORM`.  
+**• Currently back-end developer**:  `JavaScript`/`TypeScript`, `Oracle PL/SQL`, `SQL`, `PostgreSQL`, `Node.js`, `NestJS`, `Express`, `Microservices`, `Docker`, `TypeORM`, `Drizzle`.  
 **• Before used to work 2 years as front-end developer**: `React`, `MobX`, `Three.js (3D)`, `TanStack React Query`, `Tailwind CSS`, `Ant Design`, creating Figma plugins via `Figma Plugin API`   
 **• AI tools**: `Perplexity Pro`, `Qwen Code`, `Ollama`, `LM Studio`, `Gemini 3.1 Pro` & `Claude 4.6 Sonnet` enjoyer  
 **• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`. Dream to develop complex, sophisticated and modern tools, services, but not just primitive standard applications :)    
