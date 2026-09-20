@@ -2,7 +2,7 @@
 #### _Also known as [@user-of-github](https://github.com/user-of-github)_  
 ___    
 **• Currently Back-end developer**:  `JavaScript`/`TypeScript`, `Oracle PL/SQL`, `SQL`, `PostgreSQL`, `Node.js`, `NestJS`, `Express`, `Microservices`, `Docker`, `TypeORM`, `Drizzle`, `Liquibase`, `C++ Enjoyer`  
-**• Before used to work 2 years as Front-end developer**: `React`, `MobX`, `Three.js (3D)`, `TanStack React Query`, `Tailwind CSS`, `Ant Design`, creating Figma plugins via `Figma Plugin API`   
+**• Before used to work 2+ years as Front-end developer**: `React`, `MobX`, `Three.js (3D)`, `TanStack React Query`, `Tailwind CSS`, `Ant Design`, creating Figma plugins via `Figma Plugin API`   
 **• AI tools**: `Perplexity Pro`, `Qwen Code`, `Open Code`, `Ollama`, `LM Studio`, `Gemini` & `Claude` enjoyer   
 **• Interests**: `SQL Optimization`, `Modern C++`, `AI agents building`, `Modern Node.js / JavaScript API`, `Web Platform`.    P.s. And also like `badminton`, `squash`, `volleyball` and `table tennis`   
 ___     
