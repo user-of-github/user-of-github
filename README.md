@@ -1,11 +1,10 @@
 ## Mikita  
 #### _Also known as [@user-of-github](https://github.com/user-of-github)_  
 ___    
-**• Currently Back-end developer**:  `JavaScript`/`TypeScript`, `Oracle PL/SQL`, `SQL`, `PostgreSQL`, `Node.js`, `NestJS`, `Express`, `Microservices`, `Docker`, `TypeORM`, `Drizzle`, `Liquibase`.  
+**• Currently Back-end developer**:  `JavaScript`/`TypeScript`, `Oracle PL/SQL`, `SQL`, `PostgreSQL`, `Node.js`, `NestJS`, `Express`, `Microservices`, `Docker`, `TypeORM`, `Drizzle`, `Liquibase`, `C++ Enjoyer`  
 **• Before used to work 2 years as Front-end developer**: `React`, `MobX`, `Three.js (3D)`, `TanStack React Query`, `Tailwind CSS`, `Ant Design`, creating Figma plugins via `Figma Plugin API`   
-**• AI tools**: `Perplexity Pro`, `Qwen Code`, `Ollama`, `LM Studio`, `Gemini 3.1 Pro` & `Claude 4.6 Sonnet` enjoyer  
-**• Passion for**: `Software Engineering`, `Programming`, `Web Platform` and some `Math`. Dream to develop complex, sophisticated and modern tools, services, but not just primitive standard applications :)    
-**• Interests**: `Services`, `AI agents`, `SQL`, `Node.js`, `Performance`,  `Architecture`.    P.s. And also like `badminton`, `squash`, `volleyball` and `table tennis`   
+**• AI tools**: `Perplexity Pro`, `Qwen Code`, `Open Code`, `Ollama`, `LM Studio`, `Gemini` & `Claude` enjoyer   
+**• Interests**: `SQL Optimization`, `Modern C++`, `AI agents building`, `Modern Node.js / JavaScript API`, `Web Platform`.    P.s. And also like `badminton`, `squash`, `volleyball` and `table tennis`   
 ___     
 ### **👨🏻‍🎓💻 Education:**  
 - *BSUIR* 
@@ -13,29 +12,30 @@ ___
   - **Specialization**: *Informatics and Programming Technologies*
   - **Qualification**: *System programmer engineer*
   - *2020 - 2024*
-  - *GPA 9.28 of 10.0;  Diploma with honours*
 - *BSU Lyceum*
   - **Profile**: *Informatics & Mathematics*
   - *2018 - 2020*
-  - *GPA 9.6 of 10.0*
 ___  
 ### **👨🏻‍🎓💻 In addition to the university graduated from:**  
 - *[Rolling Scopes](https://rs.school/)*: `Node.js [2024Q1]` - [Certificate](https://app.rs.school/certificate/w24ntxjk)  
 - *[Rolling Scopes](https://rs.school/)*: `JS / Front-end [2022Q3]` - [Certificate](https://app.rs.school/certificate/jhf0d53i)
 ___    
 ### **🖥 Some interesting projects for public demo**  
-1. [Intro to AI agents building in TypeScript](https://github.com/user-of-github/llm-agent-typescript-into)  
-2. [3D visual arrangement of items in room](https://github.com/user-of-github/JS/tree/main/visual-arrangement-of-tools-in-room)  
+
+1. [C++ microservices Expenses-app](https://github.com/user-of-github/CPP/tree/master/ExpensesManagerCppMicroservices)  
+_A full‑fledged microservices-app with Postgres, migrations set up (Liquibase), REST-API framework Drogon CPP, microservices via Docker Compose, errors-handling, DTOs, validations_  
+2. [Intro to AI agents building in TypeScript](https://github.com/user-of-github/llm-agent-typescript-into)  
+3. [3D visual arrangement of items in room](https://github.com/user-of-github/JS/tree/main/visual-arrangement-of-tools-in-room)  
 _Visual application with 3D graphics to arrange different objects in a drawn on a 2D canvas room. Built with modern Techs (React, Canvas API, Three.js, Tailwind, MobX, Localization, auto-deploy via CI etc.). Check out Readme inside project for exact details_
-3. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)  
+4. [3D Casino Roulette (React, WebGL Babylon.js)](https://github.com/user-of-github/evo-ts-bootcamp/tree/master/course-work/roulette)  
 _3D Casino roulette game built with React, Babylon.js (WebGL), MobX, TypeScript, animations. Even models drawn by myself 3Ds Max._
 _Graduate project from [Evolution Gaming TypeScript Bootcamp](https://typescript-bootcamp.evolution.com/by)_  
-4. [Food delivery full-stack mobile app](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)  
+5. [Food delivery full-stack mobile app](https://github.com/user-of-github/JS/tree/main/food-delivery-react-native)  
 _Fullstack mobile application for some small cafes or delivery services. Modern back-end techs (Nest, Prisma, Postgres etc.), as well as good set of Front-End techs (React Native, Expo, Forms, Storages, Redux etc.). Database, Authorization, Autodeployments on CI. Visit Readme to see more about technologies and features_ 
-5. [Home Library REST API service](https://github.com/user-of-github/nodejs2024Q1-service)  
+6. [Home Library REST API service](https://github.com/user-of-github/nodejs2024Q1-service)  
 _Graduate project from [RS School NodeJs [2024Q1]](https://rs.school/courses/nodejs). Large app built with full set of modern Techs and principles (Nest, Prisma, Docker, Linux, Authorization)_       
-6. [Products RESTful service | Completed Test task to Yandex Back-End School 2022](https://github.com/user-of-github/rest-api-test-task)
-7. [C++ 17 Linear Algebra Library](https://github.com/user-of-github/CPP/tree/master/LinearAlgebra)  
+7. [Products RESTful service | Completed Test task to Yandex Back-End School 2022](https://github.com/user-of-github/rest-api-test-task)
+8. [C++ 17 Linear Algebra Library](https://github.com/user-of-github/CPP/tree/master/LinearAlgebra)  
 _Linear Algebra lib to work with numeric vectors, matrices, systems of equations and so on. Written on C++ (17)_
-8. [3D Running Ball 3D game](https://github.com/user-of-github/JS/tree/main/games/running-ball-babylonjs)  
+9. [3D Running Ball 3D game](https://github.com/user-of-github/JS/tree/main/games/running-ball-babylonjs)  
 _Simple 3D Game to practice TypeScript, Babylon.js, working with physics, textures_  
